@@ -1,1 +1,1 @@
-# Deep learning object detection using vision development module in labview
+# Deep Learning object detection using Vision Development Module in LabVIEW
